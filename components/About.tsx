@@ -40,8 +40,8 @@ export default function About() {
               for the Indian financial services industry.
             </p>
             <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-              "Switching from WhatsApp to ArthaAlfa cut compliance prep from 3 days to 30 minutes and 
-              grew paid subscribers 42% in one quarter." — SEBI RA, Mumbai
+              &ldquo;Switching from WhatsApp to ArthaAlfa cut compliance prep from 3 days to 30 minutes and 
+              grew paid subscribers 42% in one quarter.&rdquo; — SEBI RA, Mumbai
             </p>
 
             {/* Values */}
@@ -81,7 +81,7 @@ export default function About() {
                 </div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-2">Ready to Transform?</h3>
                 <p className="text-gray-600">
-                  Join thousands of financial professionals who've already made the switch to Arthalfa
+                  Join thousands of financial professionals who&apos;ve already made the switch to Arthalfa
                 </p>
               </div>
             </div>

@@ -97,7 +97,7 @@ export default function Services() {
               Ready to Get Started?
             </h3>
             <p className="text-lg text-gray-600 mb-6 max-w-2xl mx-auto">
-              Let's discuss how our services can help your business achieve its goals.
+              Let&apos;s discuss how our services can help your business achieve its goals.
             </p>
             <a
               href="#contact"

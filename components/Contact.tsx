@@ -70,7 +70,7 @@ export default function Contact() {
             Ready to Transform Your Research Business?
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Join thousands of financial professionals who've already made the switch to Arthalfa. Start your free trial today.
+            Join thousands of financial professionals who&apos;ve already made the switch to Arthalfa. Start your free trial today.
           </p>
         </div>
 
