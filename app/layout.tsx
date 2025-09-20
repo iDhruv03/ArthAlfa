@@ -1,15 +1,21 @@
-import type { Metadata } from 'next'
+import type { Metadata, Viewport } from 'next'
 import { Inter } from 'next/font/google'
 import './globals.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
+// ✅ metadata without viewport
 export const metadata: Metadata = {
   title: 'ArthAlfa - Your Trusted Partner',
   description: 'Professional services and solutions for your business needs',
   keywords: 'business, services, solutions, professional, consulting',
   authors: [{ name: 'ArthAlfa Team' }],
-  viewport: 'width=device-width, initial-scale=1',
+}
+
+// ✅ separate viewport export
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
 }
 
 export default function RootLayout({
